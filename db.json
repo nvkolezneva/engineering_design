@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "image": "2.jpg",
+      "name": "bananas bread",
+      "price": 100,
+      "article": "T1",
+      "available": true,
+      "category": "pie"
+    },
+    {
+      "image": "2.jpg",
+      "name": "banana bread",
+      "price": 200,
+      "article": "T2",
+      "available": true,
+      "category": "cake"
+    },
+    {
+      "image": "2.jpg",
+      "name": "banana bread",
+      "price": 300,
+      "article": "T3",
+      "available": false,
+      "category": "pie"
+    },
+    {
+      "image": "2.jpg",
+      "name": "banana bread",
+      "price": 400.32232323,
+      "article": "T4",
+      "available": true,
+      "category": "cake"
+    },
+    {
+      "image": "2.jpg",
+      "name": "banana bread",
+      "price": 500,
+      "article": "T5",
+      "available": false,
+      "category": "pie"
+    },
+    {
+      "image": "2.jpg",
+      "name": "banana bread",
+      "price": 600,
+      "article": "T6",
+      "available": true,
+      "category": "cake"
+    }
+  ]
+}
